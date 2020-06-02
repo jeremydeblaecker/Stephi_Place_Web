@@ -21,4 +21,3 @@ Une fois ces étapes réalisés lancer le site web.
 Pour réaliser ce projet nous avons également utiliser :
 https://packagist.org/packages/gloudemans/shoppingcart
 https://github.com/the-control-group/voyager
-Voilà le logiciel est lancé !
